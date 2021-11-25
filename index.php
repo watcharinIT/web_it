@@ -45,7 +45,7 @@ $result = $conn->query($sql);
                 </div>
             </div>
             <div class="carousel-item">
-                <div class="carousel-img" style="background-image: url('https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-0.3.5&s=d8791fe0f9f4e735158400f9daf6a558&auto=format&fit=crop&w=1280&q=80') ;">
+                <div class="carousel-img" style="background-image: url(assets/images/back.jpg); width: 100%;">
                     <div class="carousel-caption">
                     <h1 class="display-4 font-weight-bold">Information Technology</h1>
                         <h1 class="display-4 font-weight-bold">Ayutthaya Technical College</h1>
