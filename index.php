@@ -10,7 +10,7 @@ $result = $conn->query($sql);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=320, initial-scale=1, maximum-scale=1, user-scalable=0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Information </title>
+    <title>Information 555</title>
 
     <!-- Section Meta tag -->
     <?php include_once('includes/meta.php') ?>
